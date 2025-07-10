@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '14.0'
   s.resource_bundles = {'flutter_app_badger_privacy' => ['PrivacyInfo.xcprivacy']}
 end
 
