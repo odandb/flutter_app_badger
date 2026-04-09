@@ -13,10 +13,7 @@ let package = Package(
     targets: [
         .target(
             name: "flutter_app_badger",
-            dependencies: [],
-            cSettings: [
-                .headerSearchPath("include/flutter_app_badger"),
-            ]
+            dependencies: []
         ),
     ]
 )
