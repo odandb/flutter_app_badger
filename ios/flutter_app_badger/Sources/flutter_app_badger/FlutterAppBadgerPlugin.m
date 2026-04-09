@@ -1,4 +1,4 @@
-#import "FlutterAppBadgerPlugin.h"
+#import "./include/flutter_app_badger/FlutterAppBadgerPlugin.h"
 #import <UserNotifications/UserNotifications.h>
 
 @implementation FlutterAppBadgerPlugin
